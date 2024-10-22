@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React + Jenkins 1
+          Learn React + Jenkins 1 2
         </a>
       </header>
     </div>
